@@ -1,4 +1,4 @@
-# Ireland Elections - A Decentralized Voting System on the Polygon Blockchain
+# Online Voting System using Blockchain - A Decentralized Voting System on the Polygon Blockchain
 
 This is a decentralized voting system built on the Polygon blockchain, allowing users to create and vote in elections. This project is built using React and is a great example of how blockchain technology can be used to create a secure and transparent voting system.
 
@@ -6,9 +6,6 @@ This is a decentralized voting system built on the Polygon blockchain, allowing 
 
 In the project directory, you can run:
 
-Fork the repository
-Clone the forked repository to your local machine: git clone https://github.com/Mustafa-Siddique/blockchain-voting
-Navigate to the project directory: `cd ireland-elections`
 Install dependencies: `npm install`
 Start the development server: `npm start`
 
@@ -18,8 +15,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Usage
 ### Regular User
@@ -42,13 +37,3 @@ Create and vote in elections on the Polygon blockchain
 Connect to the blockchain using Metamask
 Create elections as an admin
 Vote as a Voter
-
-## Contributing
-Contributions are always welcome!
-
-## License
-This project is licensed under the MIT License.
-
-## Need Help?
-If you need any help with the Ireland Elections project, feel free to reach out to me with a consultation fee.
-You can contact me through my profile links.
